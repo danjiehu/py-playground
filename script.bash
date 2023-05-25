@@ -22,3 +22,6 @@ django-admin startproject expense_calculator .
 django-admin startapp expenses
 # Run the Django development server
 python manage.py runserver
+
+# 5. quit the virtual environment
+deactivate 
