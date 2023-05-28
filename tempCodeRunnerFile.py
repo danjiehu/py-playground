@@ -1,0 +1,2 @@
+print(nums)
+print(vals)
